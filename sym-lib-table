@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name nucleo32-f303k8)(type Legacy)(uri "${KIPRJMOD}/Nucleo-32 Lib/nucleo32-f303k8.lib")(options "")(descr ""))
+  (lib (name Motor_Driver_F303K8-rescue)(type Legacy)(uri ${KIPRJMOD}/Motor_Driver_F303K8-rescue.lib)(options "")(descr ""))
+)
